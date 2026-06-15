@@ -1,24 +1,24 @@
 <h1 align="center">
-  Olá, eu sou o Carlos Henrick! 👋
+  Hello, I am Carlos Henrick!  👋
 </h1>
 
 <h3 align="center">
-  Estudante de Engenharia de Software | Desenvolvedor Full-Stack | Automação de Processos
+  Software Engineering Student | Full-Stack Developer | Process Automation 
 </h3>
 
 <p align="center">
-  Sou autodidata e analítico, apaixonado por conectar a lógica de back-end com excelentes experiências de front-end para construir soluções escaláveis. Além disso, tenho um forte foco na automação de fluxos de trabalho utilizando ferramentas de IA e n8n.
+  I am self-taught and analytical, passionate about connecting back-end logic with excellent front-end experiences to build scalable solutions. In addition, I have a strong focus on automating workflows using AI and n8n tools. .
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-henrick" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-henrick-" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </p>
 
 <br>
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Technologies and Tools 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -38,7 +38,7 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics 
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=C-Henrick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
