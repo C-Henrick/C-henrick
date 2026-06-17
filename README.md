@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  I am self-taught and analytical, passionate about connecting back-end logic with excellent front-end experiences to build scalable solutions. In addition, I have a strong focus on automating workflows using AI and n8n tools. .
+   I am self-taught and analytical, passionate about connecting back-end logic with excellent front-end experiences to build scalable solutions. In addition, I have a strong focus on automating workflows using AI and n8n tools. .
 </p>
 
 <p align="center">
